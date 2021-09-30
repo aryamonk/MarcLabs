@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 11, 2021, 6:01:01 PM
+    Author     : Technology
+*/
+
+
+.bannerHeading
+{
+    font-size: 40px;
+    font-family: Arial;
+    color: red;
+    
+}
+
+
+
+.logintext
+{
+    
+    width: 70%;
+    
+  padding: 6px 10px;
+  margin: 8px 0;
+  box-sizing: border-box
+    
+}
+
+.btn-blue {
+    background-color: coral;
+    width: 150px;
+    height: 35px;
+    color: #fff;
+    border-radius: 2px
+}
+
+.btn-blue:hover {
+    background-color: #000;
+    cursor: pointer
+}
+
+.bg-blue {
+    color: #fff;
+    background-color: #1A237E
+}
+
+.select {
+  width: 100%;
+  min-width: 15ch;
+  max-width: 30ch;
+  border: 2px solid var(--select-border);
+  border-radius: 0.25em;
+  padding: 0.25em 0.5em;
+  font-size: 1.00rem;
+  cursor: pointer;
+  line-height: 1.1;
+  background-color: #fff;
+  background-image: linear-gradient(to top, #f9f9f9, #fff 33%);
+}
